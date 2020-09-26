@@ -1,0 +1,19 @@
+	In primul rand autentificare se poate face si cu contul de GitHub pe langa conturile de Google si Facebook.
+	In pagina de Home apar intrebarile in legatura cu cele mai cautate limbaje care pot fi filtrate in functie de alte criterii cum ar fi cele din ultima saptamana, luna, etc.
+Pentru a pune o intrebare avem butonul de "Ask a question" care deschide o pagina in care trebuie completate titlul, corpul si etichetele intrebarii. In interiorul corpului
+se pot insera imagini, cod, citatii si evident text care poate fi editat cu bold sau italic. Dupa ce s-au completat toate campurile se poate posta intrebarea apasand butonul "Post 
+question".
+	Inapoi in pagina de start, in partea stanga sunt cateva meniuri:
+Stack oveflow - unde pot fi gasite toate intrebarile (acum sunt 20,188,470..), pot fi filtrate intrebarile active, cele carora nu li s-a dat un raspuns, respectiv li sa dat cel putin
+		un raspuns, cele mai noi, etc.;
+Tags - este afisata o lisa de etichete, cuvinte cheie, care poate fi filtrate in functie de criterii standard, si se poate cauta cu un search cuvantul cheie dorit;
+Users - din nou este afisata o lista, dar de data aceasta cu userii filtrati by default dupa reputatie, apoi se pot filtra dupa "cei mai noi useri", "editori", "votanti", "moderatori", 
+	se poata da search dupa nume;
+Jobs - o pagina in care un user isi poate cauta un loc de munca. Sunt afisate foarte multe locuri de munca, se poate aplica pentru ele, se pot salva, distribui, raporta si sterge. Pot fi 
+	cautate dupa nume, locatie, companie. Aplicatiile pentru joburi se salveaza, la fel si mesajele, joburile care prezinta interes si se pot seta preferinte pentru a putea primi oferte
+	personalizate.
+
+	In coltul din dreapta sunt cateva butoane. Butonul de Inbox afiseaza notificarile primite, un buton de achivements care afiseaza in functie de activitatea pe site diferite "premii",
+privilegii, un buton de help. Butonul de profil deschide o pagina in care poate fi completat campul despre mine, in dreapta este un raport cu numarul de zile in care am fost activa, cate dintre
+ele sunt consecutive, ultima oara cand am fost activa pe pagina, cati useri mi-au vizitat profilul si de cat timp sunt membra a site-ului. In tab-ul de Activity sunt afisate mai multe rapoarte
+cu privire la activitatea mea pe site, cum ar fi la cate intrebari am raspuns, cate intrebari am pus, ce reputatie am, la cate etichete am participat, cate raspunsuri am primit, voturi si altele.
